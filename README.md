@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kindakutkut/link-analysis-amazon-books/blob/main/link analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kindakutkut/link-analysis-amazon-books/blob/main/LinkAnalysis.ipynb)
+
 
 # Link Analysis on Amazon Books
 
